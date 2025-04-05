@@ -1,16 +1,52 @@
-## Hi there 👋
+Portfolio of Gopal Dhok
+Contact Information:
 
-<!--
-**gopalSdhok/gopalSdhok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Phone: +91 9657991865
 
-Here are some ideas to get you started:
+Email: gopaldhok574@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Address: Laxminagar, Kopargaon (423601)
+
+LinkedIn: Profile
+
+Skills:
+
+Power BI
+
+SQL
+
+Technical Skills: C, Java, Python
+
+Tools & Software: VSCode, Git
+
+Education:
+
+B-Tech in AI & ML Engineering (Sanjivani University, 2024 - 2027) - GPA: 7.0
+
+Diploma in Computer Technology (Sanjivani K B P Polytechnic, 2020 - 2023) - 70.46%
+
+SSC (S,G Vidhyalay Kopargaon, 2019 - 2020) - 76.80%
+
+Certifications:
+
+Exploratory Data Analysis (AI ASCEND, Accenture)
+
+Power BI Micro Course
+
+Automate ML Pipelines Using Apache Airflow
+
+Languages: English, Hindi, Marathi, German
+
+Internship:
+
+Software Origin (June 15 - July 27, 2022)
+
+Accomplishments:
+
+Developed a website interface for Sai Sundha Steel Traders using AI-driven chatbot technology
+
+Projects:
+
+B-Tech Project: Smart Parking for Large Vehicles (IoT-based)
+
+Diploma Project: Web-Based Document Management System
